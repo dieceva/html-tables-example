@@ -1,0 +1,51 @@
+*{
+    box-sizing: border-box;
+}
+nav {
+    box-sizing: border-box;
+    border: solid; color: blue; border-width: 2px;
+    background-color: yellow;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-left: 120px;
+    text-decoration: none;
+}
+footer{
+    text-align: center;
+}
+.header{
+    background-color: lightcoral;
+    padding: 5px;
+    text-align: center;
+    border: solid;
+    border-color: black;
+    border-width: 5px;
+    margin-bottom: 5px;
+}
+header body {
+    display: inline-block;
+    text-align: center;
+    background-color: lightgreen;
+}
+table  {
+    border: solid;
+    padding: 5px;
+    border-color: black;
+    text-align: center;
+    vertical-align: center;
+    margin-left: 200px;
+    margin-top: 20px;
+    background-color: aquamarine;
+}
+thead{
+    background-color: rgb(207, 203, 159);
+}
+#english{
+    background-color: red;
+}
+div{
+    text-align: center;
+}
+
