@@ -57,4 +57,9 @@ thead{
 div{
     text-align: center;
 }
+h2{
+    margin-bottom: 10px;
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
 
